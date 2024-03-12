@@ -29,3 +29,7 @@ retell-sdk==2.0.4
 fastapi==0.100.1
 uvicorn==0.21.1
 python-multipart==0.0.9
+langchain
+langchain-community
+langchain-core
+langchain-openai
